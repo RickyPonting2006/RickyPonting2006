@@ -1,5 +1,4 @@
 import time
-
 def countdown_timer(seconds):
     while seconds:
         mins, secs = divmod(seconds, 60)
